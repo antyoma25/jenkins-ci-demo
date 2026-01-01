@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Build ejecutado por Jenkins"
+echo "Build automático desde GitHub"
 date
